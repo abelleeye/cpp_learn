@@ -1,9 +1,6 @@
 #include <iostream>
 #include <climits>
 
-using std::cout;
-using std::endl;
-
 int main() {
     using namespace std;
     int n_int = INT_MAX;
