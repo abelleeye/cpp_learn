@@ -1,1 +1,2 @@
-学习c++ primer plus 第六版时， 写下的cases。
+自学 C++ primer plus 第六版
+写的 cases
