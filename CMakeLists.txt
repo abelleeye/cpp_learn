@@ -3,7 +3,7 @@ project(cpp_learn)
 
 set(CMAKE_CXX_STANDARD 14)
 
-file (GLOB files chapter_*/*.cpp)
+file (GLOB files chapter_*/*.cpp others/*.cpp)
 foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
     add_executable (${exe} ${file})
