@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.21)
-project(cpp_learn)
+cmake_minimum_required(VERSION 3.16.5)
+project(cpp_primer_plus_6_cases)
 
 set(CMAKE_CXX_STANDARD 14)
 
